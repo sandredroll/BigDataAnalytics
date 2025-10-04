@@ -8,7 +8,7 @@ While it doesnâ€™t directly implement the traditional MapReduce model, PySparkâ€
 By applying techniques like Principal Component Analysis (PCA) and K-Means Clustering, the project provides meaningful insights into the similarity of food items based on their nutrient profiles.
 This analysis can help in food categorization, diet planning, and understanding nutritional relationships between food groups.
 
-**work-flow of Project**
+ **work-flow of Project**
 
 <img width="394" height="620" alt="Screenshot 2025-10-04 172405" src="https://github.com/user-attachments/assets/d18eb5ce-89a8-4d6b-be03-ba6342acfe78" />
 
