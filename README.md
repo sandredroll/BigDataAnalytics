@@ -10,11 +10,11 @@ This analysis can help in food categorization, diet planning, and understanding 
 
 **⚙️ Technologies Used**
 
-PySpark – Used for distributed data processing, data cleaning, transformation, and implementing machine learning algorithms such as PCA and K-Means.
-Spark MLlib – Provides machine learning utilities for clustering, dimensionality reduction, and data transformation.
-Matplotlib – Used for creating visualizations such as nutrient correlations and cluster plots.
-Pandas – Assists in handling smaller data previews and result formatting.
-Python 3.x – The main programming language for implementing the analysis and building the workflow.
-Jupyter Notebook – Used as an interactive development environment for running PySpark code and visualizing outputs.
+1. PySpark – Used for distributed data processing, data cleaning, transformation, and implementing machine learning algorithms such as PCA and K-Means.
+2. Spark MLlib – Provides machine learning utilities for clustering, dimensionality reduction, and data transformation.
+3. Matplotlib – Used for creating visualizations such as nutrient correlations and cluster plots.
+4. Pandas – Assists in handling smaller data previews and result formatting.
+5. Python 3.x – The main programming language for implementing the analysis and building the workflow.
+6. Jupyter Notebook – Used as an interactive development environment for running PySpark code and visualizing outputs.
 
 
