@@ -2,7 +2,7 @@
 
 **🧾 Project Overview**
 
-The Nutrient Analysis of Food Items project aims to analyze the nutritional composition of various food items using PySpark, a distributed data processing framework.
+The "Nutrient_Analysis_FoodItems" project aims to analyze the nutritional composition of various food items using PySpark, a distributed data processing framework.
 The system efficiently handles large datasets, performs data cleaning, transformation, and clustering to identify patterns among nutrients such as proteins, carbohydrates, fats, and vitamins.
 While it doesn’t directly implement the traditional MapReduce model, PySpark’s internal execution engine is based on the MapReduce paradigm.
 By applying techniques like Principal Component Analysis (PCA) and K-Means Clustering, the project provides meaningful insights into the similarity of food items based on their nutrient profiles.
